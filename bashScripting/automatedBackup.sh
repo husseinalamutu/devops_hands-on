@@ -8,7 +8,7 @@ read filepath
 echo "Where will you like to back it up to?"
 read backuppath
 echo "Backing up $filepath to $backuppath"
-tar czf $backuppath $filepath
+tar czf $backuppath.tar $filepath
 echo 
 echo "Backup Finished"
 echo
