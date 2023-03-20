@@ -1,7 +1,6 @@
 #!bin/bash
 
-# A Script to automate the backup of a file or directory 
-# assigned by the user into a desired location
+# A Script to rename a file
 
 echo "Hello, what file will you like to rename?"
 echo "NOTE: Include the full path to the file you wish to rename i.e Downloads/filename"
